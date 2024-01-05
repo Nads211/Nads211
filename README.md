@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+- 🎓 I graduated with a 1st in Mathematics from the University of Bristol.
+- 📚 I am working on my Data Analytics Training from AiCore.
+- 🔭 I have worked as a Data Analyst in the financial sector for the last year
+- 💬 I like all things data and want to develop my skills in Python, SQL and PowerBI
 
 <!--
 **Nads211/Nads211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
